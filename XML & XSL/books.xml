@@ -1,0 +1,37 @@
+<books>
+    <book id="1">
+        <title>Война и мир</title>
+        <author>Лев Толстой</author>
+        <genre>Роман</genre>
+        <year>1869</year>
+        <price>1000</price>
+    </book>
+    <book id="2">
+        <title>Преступление и наказание</title>
+        <author>Федор Достоевский</author>
+        <genre>Роман</genre>
+        <year>1866</year>
+        <price>800</price>
+    </book>
+    <book id="3">
+        <title>Гарри Поттер</title>
+        <author>Джоан Роулинг</author>
+        <genre>Фэнтези</genre>
+        <year>1997</year>
+        <price>1200</price>
+    </book>
+    <book id="4">
+        <title>Мастер и Маргарита</title>
+        <author>Михаил Булгаков</author>
+        <genre>Роман</genre>
+        <year>1966</year>
+        <price>900</price>
+    </book>
+    <book id="5">
+        <title>Происхождение видов</title>
+        <author>Чарльз Дарвин</author>
+        <genre>Научная литература</genre>
+        <year>1859</year>
+        <price>1500</price>
+    </book>
+</books>
